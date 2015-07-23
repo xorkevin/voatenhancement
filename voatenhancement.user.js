@@ -6,7 +6,7 @@
 // @author       xorkevin
 // @match        *://*.voat.co/*
 // @grant        none
-// @required     https://code.jquery.com/jquery-2.1.4.min.js
+// @require      https://code.jquery.com/jquery-2.1.4.min.js
 // ==/UserScript==
 
 //open all voat links (both submission and comments) in a new tab
